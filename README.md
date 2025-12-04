@@ -13,7 +13,7 @@
 Aqui dejare un paso a paso que que resulte todo en un sistema basado en Debian/Ubuntu.
 
 ### Paso 1: Clonar el repositorio
-```Bash
+```bash
 git clone [https://github.com/AndyNavarrete538/Examen-linux.git](https://github.com/AndyNavarrete538/Examen-linux.git)
 cd Examen-linux/PROYECTO_FINAL_LINUX
 ```
